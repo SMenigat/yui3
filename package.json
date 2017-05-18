@@ -2,7 +2,7 @@
   "dependencies": {
     "script-loader": "^0.7.0"
   },
-  "name": "yui3",
+  "name": "sb-yui3",
   "description": "Fork of YUI3 Framework, which adds missing asset references",
   "version": "3.18.1",
   "main": "index.js",
