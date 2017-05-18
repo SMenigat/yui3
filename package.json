@@ -1,5 +1,28 @@
 {
   "dependencies": {
     "script-loader": "^0.7.0"
-  }
+  },
+  "name": "yui3",
+  "description": "Fork of YUI3 Framework, which adds missing asset references",
+  "version": "3.18.1",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMenigat/yui3.git"
+  },
+  "keywords": [
+    "yui3"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SMenigat/yui3/issues"
+  },
+  "homepage": "https://github.com/SMenigat/yui3#readme"
 }
